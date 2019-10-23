@@ -1,0 +1,18 @@
+body {
+  font-family: 'Spectral';
+  font-size: 19px;
+  background-color: black;
+  color: white;
+}
+
+.btn {
+  border-color: #042140;
+  border-style: solid;
+  border-width: medium;
+  color: #62758a;
+}
+
+#story {
+  display: none;
+  
+}
