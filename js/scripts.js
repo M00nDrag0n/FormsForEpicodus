@@ -3,8 +3,9 @@ $(document).ready(function() {
     event.preventDefault();
     var blanks = ["person1", "person2", "animal", "exclamation", "verb", "noun"];
     blanks.forEach(function(blank) {
-      var userInput = $("input#" + blank).val();
-      $(blank).text(userInput).val();
+      var userInput = $("#" + blank).val();
+      console.log(userInput)
+      $("." + blank).text(userInput).val();
     });
 
     $("#story").show();
