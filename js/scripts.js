@@ -13,4 +13,4 @@ $(document).ready(function() {
   });
 });
 
-console.log("WOW I EXIST HIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII!!!", "oops I hiccupped");
+alert("WOW I EXIST HIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII!!!", "oops I hiccupped");
