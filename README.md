@@ -10,8 +10,8 @@ _This website is my most recent version of the Mad-Libs Project as of 2019. I pl
 
 ## Setup/Installation Requirements
 
-* _Use this link [ ] to access the global version of our "luxury" resort website!_
-* _Click the links on the page!_
+* _Use this link [ ] to access the global version of our Mad Libs website!_
+* _Fill in the blanks and hit the submit button!_
 
 _No additional servers are needed_
 
